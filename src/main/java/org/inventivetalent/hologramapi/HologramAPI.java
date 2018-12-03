@@ -1,7 +1,7 @@
-package de.inventivegames.hologram;
+package org.inventivetalent.hologramapi;
 
-import de.inventivegames.hologram.reflection.NMUClass;
-import de.inventivegames.hologram.reflection.Reflection;
+import org.inventivetalent.hologramapi.reflection.NMUClass;
+import org.inventivetalent.hologramapi.reflection.Reflection;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 import org.inventivetalent.reflection.minecraft.Minecraft;

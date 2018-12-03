@@ -1,6 +1,6 @@
-package de.inventivegames.hologram.view;
+package org.inventivetalent.hologramapi.view;
 
-import de.inventivegames.hologram.Hologram;
+import org.inventivetalent.hologramapi.Hologram;
 import org.bukkit.entity.Player;
 
 import javax.annotation.Nonnull;

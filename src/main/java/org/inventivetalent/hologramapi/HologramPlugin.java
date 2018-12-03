@@ -1,9 +1,8 @@
-package de.inventivegames.hologram;
+package org.inventivetalent.hologramapi;
 
 import org.bukkit.Bukkit;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.mcstats.MetricsLite;
 
 public class HologramPlugin extends JavaPlugin implements Listener {
 
@@ -29,6 +28,7 @@ public class HologramPlugin extends JavaPlugin implements Listener {
 			HologramAPI.enableProtocolSupport();
 		}
 
+		/*
 		try {
 			MetricsLite metrics = new MetricsLite(this);
 			if (metrics.start()) {
@@ -36,6 +36,7 @@ public class HologramPlugin extends JavaPlugin implements Listener {
 			}
 		} catch (Exception e) {
 		}
+		*/
 	}
 
 	@Override

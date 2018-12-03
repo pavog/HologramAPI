@@ -1,6 +1,6 @@
-package de.inventivegames.hologram.reflection;
+package org.inventivetalent.hologramapi.reflection;
 
-import de.inventivegames.hologram.HologramAPI;
+import org.inventivetalent.hologramapi.HologramAPI;
 import org.bukkit.Location;
 import org.bukkit.entity.EntityType;
 import org.inventivetalent.reflection.minecraft.DataWatcher;

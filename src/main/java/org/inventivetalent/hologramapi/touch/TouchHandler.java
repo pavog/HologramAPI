@@ -1,6 +1,6 @@
-package de.inventivegames.hologram.touch;
+package org.inventivetalent.hologramapi.touch;
 
-import de.inventivegames.hologram.Hologram;
+import org.inventivetalent.hologramapi.Hologram;
 import org.bukkit.entity.Player;
 
 import javax.annotation.Nonnull;

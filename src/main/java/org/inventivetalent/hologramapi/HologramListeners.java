@@ -1,4 +1,4 @@
-package de.inventivegames.hologram;
+package org.inventivetalent.hologramapi;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

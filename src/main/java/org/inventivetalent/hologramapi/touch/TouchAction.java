@@ -1,4 +1,4 @@
-package de.inventivegames.hologram.touch;
+package org.inventivetalent.hologramapi.touch;
 
 public enum TouchAction {
 	RIGHT_CLICK,

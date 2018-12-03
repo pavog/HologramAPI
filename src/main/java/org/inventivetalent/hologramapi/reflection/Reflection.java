@@ -1,4 +1,4 @@
-package de.inventivegames.hologram.reflection;
+package org.inventivetalent.hologramapi.reflection;
 
 import org.bukkit.Bukkit;
 

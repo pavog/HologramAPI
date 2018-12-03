@@ -1,9 +1,9 @@
-package de.inventivegames.hologram;
+package org.inventivetalent.hologramapi;
 
-import de.inventivegames.hologram.reflection.NMSClass;
-import de.inventivegames.hologram.touch.TouchAction;
-import de.inventivegames.hologram.touch.TouchHandler;
-import de.inventivegames.hologram.view.ViewHandler;
+import org.inventivetalent.hologramapi.reflection.NMSClass;
+import org.inventivetalent.hologramapi.touch.TouchAction;
+import org.inventivetalent.hologramapi.touch.TouchHandler;
+import org.inventivetalent.hologramapi.view.ViewHandler;
 import org.bukkit.plugin.Plugin;
 import org.inventivetalent.packetlistener.handler.PacketHandler;
 import org.inventivetalent.packetlistener.handler.PacketOptions;

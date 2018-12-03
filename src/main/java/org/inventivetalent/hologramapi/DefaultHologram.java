@@ -1,7 +1,7 @@
-package de.inventivegames.hologram;
+package org.inventivetalent.hologramapi;
 
-import de.inventivegames.hologram.touch.TouchHandler;
-import de.inventivegames.hologram.view.ViewHandler;
+import org.inventivetalent.hologramapi.touch.TouchHandler;
+import org.inventivetalent.hologramapi.view.ViewHandler;
 import org.bukkit.Location;
 import org.bukkit.entity.Entity;
 import org.bukkit.scheduler.BukkitRunnable;

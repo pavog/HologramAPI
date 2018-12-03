@@ -1,4 +1,4 @@
-package de.inventivegames.hologram;
+package org.inventivetalent.hologramapi;
 
 class HologramOffsets {
 

@@ -1,6 +1,6 @@
 name: HologramAPI
 author: inventivetalent
-main: de.inventivegames.hologram.HologramPlugin
+main: org.inventivetalent.hologramapi.HologramPlugin
 version: ${project.version}
 
 softdepend: [PacketListenerApi]

@@ -1,8 +1,8 @@
-package de.inventivegames.hologram;
+package org.inventivetalent.hologramapi;
 
-import de.inventivegames.hologram.reflection.ClassBuilder;
-import de.inventivegames.hologram.reflection.NMSClass;
-import de.inventivegames.hologram.reflection.Reflection;
+import org.inventivetalent.hologramapi.reflection.ClassBuilder;
+import org.inventivetalent.hologramapi.reflection.NMSClass;
+import org.inventivetalent.hologramapi.reflection.Reflection;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitRunnable;

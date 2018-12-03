@@ -85,8 +85,8 @@
     </distributionManagement>
     <repositories>
         <repository>
-            <id>inventive-repo</id>
-            <url>http://repo.inventivetalent.org/content/groups/public/</url>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
         </repository>
         <repository>
             <id>md_5-repo</id>
@@ -99,10 +99,6 @@
         <repository>
             <id>techcable-repo</id>
             <url>http://repo.techcable.net/content/groups/public/</url>
-        </repository>
-        <repository>
-            <id>mcstats-repo</id>
-            <url>http://repo.mcstats.org/content/groups/public/</url>
         </repository>
     </repositories>
     <dependencies>
@@ -119,21 +115,14 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>org.inventivetalent</groupId>
-            <artifactId>reflectionhelper</artifactId>
-            <version>1.10.4</version>
+            <groupId>com.github.InventivetalentDev</groupId>
+            <artifactId>ReflectionHelper</artifactId>
+            <version>1.14.2-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>org.inventivetalent.packetlistener</groupId>
-            <artifactId>api</artifactId>
-            <version>[3.2.0,)</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.mcstats.bukkit</groupId>
-            <artifactId>metrics-lite</artifactId>
-            <version>R8-SNAPSHOT</version>
-            <scope>compile</scope>
+            <groupId>com.github.pavog</groupId>
+            <artifactId>PacketListenerAPI</artifactId>
+            <version>master</version>
         </dependency>
     </dependencies>
 </project>
